@@ -1,0 +1,42 @@
+{
+  "name": "lineman-livereload",
+  "title": "Live Reload plugin for Lineman",
+  "description": "Live Reload your Lineman projects",
+  "keywords": [
+    "lineman",
+    "linemanplugin",
+    "grunt",
+    "livereload"
+  ],
+  "version": "0.0.1",
+  "homepage": "https://github.com/psiablo/lineman-livereload",
+  "author": {
+    "name": "Eric Taylor",
+    "email": "eric@daxos.com"
+  },
+  "contributors": [
+
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/psiablo/lineman-livereload.git"
+  },
+  "bugs": {
+    "url": "https://github.com/psiablo/lineman-livereload/issues"
+  },
+  "main": "main.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "coffee-script": "~1.6.3"
+  },
+  "peerDependencies": {
+    "lineman": ">= 0.33.3"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/psiablo/lineman-livereload/raw/master/LICENSE"
+    }
+  ]
+}
