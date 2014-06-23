@@ -8,7 +8,7 @@
     "grunt",
     "livereload"
   ],
-  "version": "0.0.1",
+  "version": "0.1.0",
   "homepage": "https://github.com/psiablo/lineman-livereload",
   "author": {
     "name": "Eric Taylor",
@@ -31,7 +31,7 @@
     "coffee-script": "~1.6.3"
   },
   "peerDependencies": {
-    "lineman": ">= 0.33.3"
+    "lineman": ">= 0.33.4"
   },
   "licenses": [
     {
