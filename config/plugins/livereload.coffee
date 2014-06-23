@@ -1,12 +1,6 @@
 module.exports = (lineman) ->
   app = lineman.config.application
 
-  files:
-    imagemin:
-      cwd: 'generated/img'
-      dest: 'generated/img'
-      src: '{,*/}*.{png,jpg,jpeg,gif}'
-
   config:
     server:
       liveReload:
